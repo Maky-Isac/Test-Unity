@@ -121,7 +121,469 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: BirdGame_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 14
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248fbb2975b1209479b83e469fee55df
+      internalID: 1823416927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 214
+        width: 154
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a4f31b6d72f146b85d342b0a0893c
+      internalID: -1880397058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 248
+        width: 98
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8defa28c3d976ef43b7005b8c9f5670d
+      internalID: 2145302768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 225
+        width: 136
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee135329511a0147a5f27a5738ab02e
+      internalID: 494482556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 199
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9923058de8744d4fab67373cc6bc216
+      internalID: 1555621494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_14
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 70
+        width: 26
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9c4fabe6469134dac8bfe09ad82482
+      internalID: -54378476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 83
+        width: 26
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4a792c6ff021049a81eebcac16e163
+      internalID: -1557784403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 201
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd754f7dd62e3e94aba8eff0256849a5
+      internalID: -1682360514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_19
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 181
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc719abf2208024dad73b6a42d69621
+      internalID: 587845406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_20
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 176
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623c994227b3799499eb5a3ac5bacdff
+      internalID: -1704188627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 176
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9c61c38de1f984cb7cca8d23e93efe
+      internalID: 408399306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 176
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3c9db2b7652f44daca441fa13d0c93
+      internalID: -2090691080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_23
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 176
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2d2a9160aa8334281c2cae42e0faf1
+      internalID: 1753248183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_24
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 176
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afee5be927ef0914e89c3a832ad48dd6
+      internalID: -1995305900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 176
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80366fb5d9157ee49a29d72a83b3f38c
+      internalID: 625154112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 176
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fa4187a44e9bb449a0c2bc136e2621
+      internalID: 459938407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 176
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af6c8d578cc12498450bba361c27f0
+      internalID: 863919693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 176
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533253c317fb8c544aea2764c5cd5dd4
+      internalID: -1168308024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_29
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 176
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba0bfdf33d34dd4090e9230c0919e90
+      internalID: -328417758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 165
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8925f3f5a71e24fbf9129748705a36
+      internalID: -1802337575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 149
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ef7d07bcf27e14083635bf39a3fd91
+      internalID: 302216077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdGame_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 89
+        width: 123
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177365f43563cd343bbbe456376960e1
+      internalID: -1820474350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +594,40 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BirdGame_0: 1823416927
+      BirdGame_1: -1880397058
+      BirdGame_10: 961232075
+      BirdGame_11: -806407381
+      BirdGame_12: -1454064954
+      BirdGame_13: 1555621494
+      BirdGame_14: -54378476
+      BirdGame_15: -1557784403
+      BirdGame_16: 1261988739
+      BirdGame_17: 1127301101
+      BirdGame_18: -1682360514
+      BirdGame_19: 587845406
+      BirdGame_2: -1785662367
+      BirdGame_20: -1704188627
+      BirdGame_21: 408399306
+      BirdGame_22: -2090691080
+      BirdGame_23: 1753248183
+      BirdGame_24: -1995305900
+      BirdGame_25: 625154112
+      BirdGame_26: 459938407
+      BirdGame_27: 863919693
+      BirdGame_28: -1168308024
+      BirdGame_29: -328417758
+      BirdGame_3: -425035380
+      BirdGame_30: -1802337575
+      BirdGame_31: 302216077
+      BirdGame_32: -1820474350
+      BirdGame_4: -112870021
+      BirdGame_5: 2145302768
+      BirdGame_6: 1212123618
+      BirdGame_7: -1212433887
+      BirdGame_8: 1402775623
+      BirdGame_9: 494482556
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
